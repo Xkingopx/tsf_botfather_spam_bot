@@ -1,7 +1,5 @@
-#ꜱᴘᴀᴍʙᴏᴛꜱ 2.0
-
 <p align="center">
-  <img src="https://telegra.ph/file/8626f33867fc155eaa404.jpg">
+  <img src="https://telegra.ph/file/6d74a785d1432b2cb7ebc.jpg">
 </p>
 
 
@@ -16,24 +14,21 @@
 
 ----
 
-## 𝚂𝚃𝙰𝚃𝚄𝚂 𝙾𝙵 𝚃𝙷𝙸𝚂 𝙱𝙾𝚃 
-<p align="left"><a href="https://github.com/dangerousjatt/SpamBot-2.0/network/members"><img src="https://img.shields.io/github/forks/dangerousjatt/SpamBot-2.0?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/dangerousjatt/SpamBot-2.0/stargazers"><img src="https://img.shields.io/github/stars/dangerousjatt/SpamBot-2.0?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/dangerousjatt/SpamBot-2.0"></a><p align="left"><a href="https://github.com/dangerousjatt/SpamBot-2.0?"><img src="https://img.shields.io/github/last-commit/dangerousjatt/SpamBot-2.0?style=plastic"></
+## Sᴛᴀᴛᴜs Oғ Tʜɪs Bᴏᴛ
+<p align="left"><a href="https://github.com/OFFICIAL-SAMEER/SAVAGE-BOTFATHER-BOT/network/members"><img src="https://img.shields.io/github/forks/OFFICIAL-SAMEER/SAVAGE-BOTFATHER-BOT?label=Forks&logoColor=Black&style=social"></a><p align="left"><a href="https://github.com/OFFICIAL-SAMEER/SAVAGE-BOTFATHER-BOT/stargazers"><img src="https://img.shields.io/github/stars/OFFICIAL-SAMEER/SAVAGE-BOTFATHER-BOT?logoColor=Blue&style=social"></a><p align="left"><a href="https://github.com/OFFICIAL-SAMEER/SAVAGE-BOTFATHER-BOT"></a><p align="left"><a href="https://github.com/OFFICIAL-SAMEER/SAVAGE-BOTFATHER-BOT?"><img src="https://img.shields.io/github/last-commit/OFFICIAL-SAMEER/SAVAGE-BOTFATHER-BOT?style=plastic"></
 
 -------------------------------------------------
 
-## 𝚂𝚄𝙿𝙿𝙾𝚁𝚃 
+## Sᴜᴘᴘᴏʀᴛ 
                           
-<a href="https://t.me/USTAD_SPAM_BOT_SUPPORT"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
-<a href="https://t.me/USTAD_SPAM_BOTS"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
+<a href="https://t.me/savage_spam_bots"><img src="https://img.shields.io/badge/Join-SUPPORT%20GROUP-red.svg?logo=Telegram"></a>
+<a href="https://t.me/Savage_Bot_Updates"><img src="https://img.shields.io/badge/Join-SUPPORT%20CHANNEL-red.svg?logo=Telegram"></a>
 
 -------------------------------------------------
-
-## ᴄʀᴇᴀᴛᴏʀ -[ᴜꜱᴛᴀᴅ🇮🇳](https://t.me/USTAD_OP)
-## ᴄᴏɴᴛʀɪʙᴜᴛᴏʀ -[ᴀᴅɪᴛʏᴀ🇮🇳](https://t.me/Paramatin7)
-## ꜱᴜᴘᴘᴏʀᴛᴇʀ -[ᴀᴍᴀᴀɴ🇮🇳](https://t.me/CoPYLess786)
+## Oᴡɴᴇʀ -[Sᴀᴠᴀɢᴇ Sᴀᴍᴇᴇʀ](https://t.me/OFFICIAL_SAMEER)
 -------------------------------------------------
 
-## 🚀 Deploy on Heroku 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/dangerousjatt/SpamBot-2.0.git)
+## 🚀 Dᴇᴘʟᴏʏ Oɴ Hᴇʀᴏᴋᴜ
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/OFFICIAL-SAMEER/SAVAGE-BOTFATHER-BOT.git)
 ------------------------------------------------
 
